@@ -8,7 +8,7 @@ metadata:
     Object Mount lets you interact with object storage as if it were a fast native file system with POSIX compatibility that can run any new or existing applications.
 ---
 
-Object Mount lets you interact with object storage as if it were a fast native file system with POSIX compatibility that can run any new or existing applications.
+Object Mount lets you interact with object storage as if it were a fast native file system with optional POSIX compatibility that can run any new or existing applications.
 
 New to Object Mount and want to try it out? Check out our [Getting Started](object-mount/getting-started/intro) guide.
 
@@ -19,3 +19,5 @@ For licensing quotes, free trials, product fit, or chat with an expert, please s
 Need help? Message us directly at our [help desk](https://supportdcs.storj.io/hc/en-us/requests/new)
 
 The [User Guide](./object-mount/user-guides) is also available with all options and details about how Object Mount works and all available options.
+
+For a trial license with a MacOS DMG native installer or Windows EXE native installer please get in touch [discovery call](https://www.storj.io/landing/get-in-touch).
